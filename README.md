@@ -8,6 +8,9 @@ For now:
 - [Pandas: apply](http://nbviewer.ipython.org/github/tbrams/py_notes/blob/master/Pandas understanding apply.ipynb)
 - [Pandas: concat](http://nbviewer.ipython.org/github/tbrams/py_notes/blob/master/Concatenate DataFrames.ipynb)
 - [Pandas: notnull](http://nbviewer.ipython.org/github/tbrams/py_notes/blob/master/Pandas notnull.ipynb)
+- [Pandas: Outliers](http://nbviewer.ipython.org/github/tbrams/py_notes/blob/master/Pandas Removing outliers.ipynb) 
 - [Pandas: TimeSeries](http://nbviewer.ipython.org/github/tbrams/py_notes/blob/master/TimeSeries.ipynb) 
+
+
 
 
